@@ -1,0 +1,25 @@
+{
+  "name": "clicker-project",
+  "version": "1.0.0",
+  "description": "A clicker project.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "1+1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/830008/ClickerProject.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/830008/ClickerProject/issues"
+  },
+  "homepage": "https://github.com/830008/ClickerProject#readme"
+}
